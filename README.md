@@ -1,2 +1,2 @@
 # EthicalHacking
-Hands-on proects
+Hands-on projects
